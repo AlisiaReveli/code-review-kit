@@ -1,0 +1,15 @@
+{
+  "name": "code-review-kit",
+  "description": "Knowledge-base-driven code review skills for AI coding agents.",
+  "owner": {
+    "name": "AlisiaReveli"
+  },
+  "plugins": [
+    {
+      "name": "team-code-review",
+      "source": "./plugins/team-code-review",
+      "description": "Senior-reviewer-style PR review driven by your team's own knowledge base, with a setup skill that gathers business rules, decisions, conventions and optional read-only DB access.",
+      "version": "0.1.0"
+    }
+  ]
+}

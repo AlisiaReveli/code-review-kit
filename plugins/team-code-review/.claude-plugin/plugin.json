@@ -1,0 +1,10 @@
+{
+  "name": "team-code-review",
+  "version": "0.1.0",
+  "description": "Senior-reviewer-style PR review driven by your team's own knowledge base: business rules, decisions, conventions, house rules, and a security pass on every review.",
+  "author": {
+    "name": "AlisiaReveli"
+  },
+  "license": "MIT",
+  "keywords": ["code-review", "pull-request", "security", "knowledge-base"]
+}
